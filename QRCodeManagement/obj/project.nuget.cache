@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0yCEdetKIt3bS9NfeESGRUKtajxDKYs/yR9aSARZ4bBXdxNHQ83dKSQnL9vBx+5oL/ElO65EdOlA3fyte1nMg==",
+  "success": true,
+  "projectFilePath": "D:\\SourceRepos\\QRCodeManagement\\QRCodeManagement\\QRCodeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SarangJKulkarni\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\SarangJKulkarni\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\SarangJKulkarni\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SarangJKulkarni\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\SarangJKulkarni\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\SarangJKulkarni\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

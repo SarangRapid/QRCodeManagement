@@ -1,0 +1,12 @@
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\obj\Debug\netcoreapp2.2\QRCodeManagement.csproj.CoreCompileInputs.cache
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\obj\Debug\netcoreapp2.2\QRCodeManagement.AssemblyInfoInputs.cache
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\obj\Debug\netcoreapp2.2\QRCodeManagement.AssemblyInfo.cs
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\obj\Debug\netcoreapp2.2\QRCodeManagement.csprojAssemblyReference.cache
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\appsettings.json
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\QRCodeManagement.deps.json
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\QRCodeManagement.runtimeconfig.json
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\QRCodeManagement.runtimeconfig.dev.json
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\bin\Debug\netcoreapp2.2\QRCodeManagement.dll
+D:\SourceRepos\QRCodeManagement\QRCodeManagement\obj\Debug\netcoreapp2.2\QRCodeManagement.genruntimeconfig.cache
